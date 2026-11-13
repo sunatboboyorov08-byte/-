@@ -1,0 +1,6 @@
+{
+  "name": "Платформаи Ҳисоби Эффективокии Стансияҳои Насосӣ",
+  "description": "Мини-платформаи ҳисоби эффективокии обёрӣ ва гидравликии стансияҳои насосии Тоҷикистон барои гидротехникҳо ва кишоварзон",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
